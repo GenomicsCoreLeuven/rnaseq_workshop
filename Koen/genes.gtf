@@ -1,0 +1,12 @@
+#!genome-build rna_workshop
+#!genome-version build1
+#!genome-date 2016-09
+chr0	gc	gene	20	900	.	+	.	gene="Stella"; gene_id="1"; gene_name="Stella-like gene"
+chr0	gc	exon	20	150	.	+	.	gene="Stella"; gene_id="1"; gene_name="Stella-like gene"
+chr0	gc	exon	300	700	.	+	.	gene="Stella"; gene_id="1"; gene_name="Stella-like gene"
+chr0	gc	exon	800	900	.	+	.	gene="Stella"; gene_id="1"; gene_name="Stella-like gene"
+chr0	gc	gene	850	1300	.	-	.	gene="Duvel"; gene_id="2"; gene_name="Duvel-like gene"
+chr0	gc	exon	850	1000	.	-	.	gene="Duvel"; gene_id="2"; gene_name="Duvel-like gene"
+chr0	gc	exon	1150	1300	.	-	.	gene="Duvel"; gene_id="2"; gene_name="Duvel-like gene"
+chr0	gc	gene	1500	1900	.	+	.	gene="Omer"; gene_id="3"; gene_name="Omer-like gene"
+chr0	gc	exon	1500	1900	.	+	.	gene="Omer"; gene_id="3"; gene_name="Omer-like gene"
